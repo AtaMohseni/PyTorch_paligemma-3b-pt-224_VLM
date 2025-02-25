@@ -1,2 +1,2 @@
-# PyTorch_paligemma-3b-pt-224_VLMVLM
+# PyTorch_paligemma-3b-pt-224_VLM
 implementation of paligemma VLM from scratch 
